@@ -1,0 +1,11 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f5c3ff, #a5d8ff, #c4b5fd, #e9d5ff);
+    background-size: 400% 400%;
+    animation: gradientWave 15s ease infinite;
+    overflow: hidden;
+    position: relative;
+}
